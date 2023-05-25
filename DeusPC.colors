@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=0,145,145
 
 [General]
-ColorScheme=DeusPC
-Name=Deus PC
+ColorScheme=Parileus
+Name=Parileus
 shadeSortColumn=true
 
 [KDE]
